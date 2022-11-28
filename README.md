@@ -47,6 +47,6 @@ I built multiple classifier models after cleaning and evaluating the data. The c
 * Utilize a sklearn scaler like MinMaxScaler() to optimize the scale and distribution of the data
 
 #### For More Information
-See the full anaysis in the [Jupyter Notebook]() or review the [presentation]().
+See the full anaysis in the [Jupyter Notebook](https://github.com/kreggthegoat/skip-prediction/blob/main/README.md) or review the [presentation](https://github.com/kreggthegoat/skip-prediction/blob/main/pdfs/capstonepresentation.pdf).
 
 ## Thank You
