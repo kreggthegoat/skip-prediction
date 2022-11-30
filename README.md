@@ -50,3 +50,8 @@ I built multiple classifier models after cleaning and evaluating the data. The c
 See the full anaysis in the [Jupyter Notebook](https://github.com/kreggthegoat/skip-prediction/blob/main/README.md) or review the [presentation](https://github.com/kreggthegoat/skip-prediction/blob/main/pdfs/capstonepresentation.pdf).
 
 ## Thank You
+
+## Repository Structure
+
+```
+```
