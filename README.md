@@ -56,6 +56,6 @@ See the full anaysis in the [Jupyter Notebook](https://github.com/kreggthegoat/s
     ├── Images                   # Images folder
     ├── pdfs                     # Presentation pdf 
     ├── .gitignore               # .gitignore
-    ├── notebook.ipynb           # Jupyter notebook
-    └── README.md
+    ├── README.md                # README.md
+    └── notebook.ipynb           # Jupyter notebook
 
