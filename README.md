@@ -53,5 +53,10 @@ See the full anaysis in the [Jupyter Notebook](https://github.com/kreggthegoat/s
 
 ## Repository Structure
 
-```
-```
+    .
+    ├── Images                   # Images folder
+    ├── pdfs                     # Presentation pdf 
+    ├── .gitignore               # .gitignore
+    ├── notebook.ipynb           # Jupyter notebook
+    └── README.md
+
