@@ -12,7 +12,7 @@ The public version of the dataset originally consists of roughly 130 million lis
 
 ## Methods
 
-I built multiple classifier models after cleaning and evaluating the data. The cleaning process consisted of formatting the data so the classifers can read the data, analyzing class imbalance on the dependent variable, and dropping redundant columns. Next I built vizs to visually represent and better understand the predictors relationship with the dependendent variable. Then I built multiple classifier models and indentified the most important features from the best performing models. 
+I built multiple classifier models after cleaning and evaluating the data. The cleaning process consisted of formatting the data so the classifers can read the data, analyzing class imbalance on the dependent variable, and dropping redundant columns. Next I built vizs to visually represent and better understand the predictors relationship with the dependendent variable. Then I built multiple classifier models and identified the most important features from the best performing models. 
 
 ## Results
 
